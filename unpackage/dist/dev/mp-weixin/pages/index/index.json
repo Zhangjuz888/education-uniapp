@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#345dc2",
+  "usingComponents": {
+    "banner": "/components/common/banner",
+    "category-box": "/pages/index/components/category-box",
+    "swiper-course": "/pages/index/components/swiper-course",
+    "search-input": "/components/common/search-input"
+  }
+}
